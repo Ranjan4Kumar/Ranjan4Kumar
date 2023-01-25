@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Ranja Kumar
+- 👋 Hi, I’m Ranjan Kumar
 - 👀 I’m interested in Full satck Data science.
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me ranjankumar@techis.io.
 
 <!---
