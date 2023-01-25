@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ranjan4Kumar
+- 👋 Hi, I’m Ranja Kumar
 - 👀 I’m interested in Full satck Data science.
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on 
